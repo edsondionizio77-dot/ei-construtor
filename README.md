@@ -2,6 +2,10 @@
 
 **Sistema offline de gestão de obras para profissionais da construção civil.**
 
+## Links do Projeto
+* **Aplicativo Web (PWA):** https://edsondionizio77-dot.github.io/ei-construtor/
+* **Versão Android:** Em breve na Google Play Store (Gerado via PWABuilder)
+
 Aplicativo Progressive Web App (PWA) para gestão completa de orçamentos, contratos, financeiro, vistorias técnicas, laudos periciais e manual normativo de obra. Funciona 100% offline — todos os dados são armazenados localmente no dispositivo do usuário, sem necessidade de servidor ou conexão à internet.
 
 **Projeto pessoal de Edson Alves Dionizio** — pesquisa e desenvolvimento em tecnologia aplicada à construção civil. Distribuído gratuitamente.
