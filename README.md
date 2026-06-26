@@ -117,13 +117,7 @@ Editor de fichas com tabelas dinâmicas, checklists, referências normativas e b
 
 ---
 
-## Como publicar como PWA
 
-1. Hospede os arquivos em qualquer serviço HTTPS (GitHub Pages, Netlify, Cloudflare Pages)
-2. Acesse via navegador móvel — botão "Adicionar à tela inicial" aparece automaticamente
-3. Para publicar na Google Play Store: use o [PWABuilder](https://www.pwabuilder.com) para gerar o AAB assinado
-
----
 
 ## Estrutura de arquivos
 
@@ -176,7 +170,7 @@ Software desenvolvido como projeto pessoal de pesquisa e desenvolvimento em tecn
 
 ## Sobre o autor
 
-**Edson Alves Dionizio** — profissional com mais de 20 anos de experiência em construção civil, em formação simultânea em Engenharia Civil e Arquitetura e Urbanismo. Especialização em curso em Gestão de Construção (UniFatecie). Autor técnico com obras em desenvolvimento sobre ergonomia em projeto de interiores, detalhamento altimétrico em áreas molhadas, e qualidade no canteiro de obra.
+**Edson Alves Dionizio** — Tecnólogo em Design de Interiores e Técnico em Edificações, com mais de 20 anos de experiência prática no ciclo completo da construção civil. Atualmente em formação simultânea nas graduações de Engenharia Civil e Arquitetura e Urbanismo, e especializando-se em Engenharia de Gerenciamento de Obras (UniFatecie). É autor técnico de obras em desenvolvimento focadas em ergonomia espacial, detalhamento altimétrico para áreas molhadas e controle de qualidade no canteiro de obras.
 
 - CREA-BA nº 052407533-6
 - CRT-BA nº 981894845-91
