@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20947329.svg)](https://doi.org/10.5281/zenodo.20947329)
+
 # EI Construtor
 
 **Sistema offline de gestão de obras para profissionais da construção civil.**
